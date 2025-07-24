@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Joaquin ... I'm Programador ..., from Argentina....</p>
+<p align="left">My name is Joaquin ...  I'm Programador ..., from Argentina....</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 1993...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 1993...<br>📚 I'm currently learning Programacion...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
