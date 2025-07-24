@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 1993...<br>📚 I'm currently learning Programacion...<br>🎯 Goals: actualizarme dia a dia...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 1993...<br>📚 I'm currently learning Programacion...<br>🎯 Goals: actualizarme dia a dia...<br></p>
 
 ###
 
