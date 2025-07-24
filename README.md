@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Joaquin ..., soy Programador ..., soy de Argentina, Buuenos Aires, Chacabuco....</p>
+<p align="left">My name is Joaquin ..., Programador en proceso ..., de Argentina, Buuenos Aires, Chacabuco....</p>
 
 ###
 
